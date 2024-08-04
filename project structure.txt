@@ -1,0 +1,24 @@
+KnowledgeGraphApi/
+│
+├── app/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── arango_service.py
+│   │   ├── document_service.py
+│   │   └── query_service.py
+│   ├── routers/
+│   │   ├── __init__.py
+│   │   ├── upload_router.py
+│   │   ├── query_router.py
+|   ├── main.py
+│
+├── Dockerfile
+├── requirements.txt
+└── uploaded_files/  # This folder store uploaded files
+
+
+You can access the APIs at the following endpoints:
+Upload API: http://localhost:8000/upload/upload
+Query API: http://localhost:8000/query/query

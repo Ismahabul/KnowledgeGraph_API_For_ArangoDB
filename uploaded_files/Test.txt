@@ -1,0 +1,81 @@
+Event Schedule
+Realcomm 2024 - General Events
+9th Annual Golf Outing & Charity Event
+
+Description: Swing for a cause! Join us on June 18 as we tee off for the 9th Annual Golf Outing and Charity Event at TPC Tampa Bay, where every drive and every putt makes a difference. This year, the outing will again benefit Stacks + Joules, a nonprofit workforce development program delivering the next generation of smart building techs.
+Date: Tuesday, June 18, 2024
+Time: 7:00 AM - 2:00 PM
+Location: TPC Tampa Bay
+Realcomm 2024 - PRECON: CRE Cybersecurity Forum
+Welcome and Introductions
+
+Date: Wednesday, June 19, 2024
+Time: 8:00 AM - 8:05 AM
+Location: Main Stage
+Moderators:
+Greg Fitzpatrick, Cochrane Supply
+Jim Whalen, BXP
+Jim Young, Realcomm
+Critical Infrastructure and Buildings: Understanding the Current and Future Threat Landscape
+
+Date: Wednesday, June 19, 2024
+Time: 8:05 AM - 8:30 AM
+Location: Main Stage
+Speaker: Bill Crumm, BlueVoyant
+AI and its Impact on Security
+
+Date: Wednesday, June 19, 2024
+Time: 8:30 AM - 8:50 AM
+Location: Main Stage
+Moderator: Ken Kurz, COPT Defense Properties
+Speakers:
+Russ Farr, 5Q
+Denis Cekic, Empire State Realty Trust
+Chris Panto, MetroNational
+Case Study 1: OT Tabletops
+
+Date: Wednesday, June 19, 2024
+Time: 8:50 AM - 9:00 AM
+Location: Main Stage
+Speaker: Andres Rodriguez, QuadReal
+RE-ISAC Update
+
+Date: Wednesday, June 19, 2024
+Time: 9:00 AM - 9:05 AM
+Location: Main Stage
+Speaker: Jim Whalen, BXP
+3rd and 4th Party Risk Management
+
+Date: Wednesday, June 19, 2024
+Time: 9:05 AM - 9:30 AM
+Location: Main Stage
+Moderator: Don Goldstein, 5Q
+Speakers:
+Helane Stein, Brixmor
+Ken Kurz, COPT Defense Properties
+Shelton Smith, Kimco Realty
+Successful Cyber Commissioning
+
+Date: Wednesday, June 19, 2024
+Time: 9:30 AM - 9:40 AM
+Location: Main Stage
+Moderator: Lucian Niemeyer, Building Cyber Security
+Speakers:
+Michael MacMahon, Newcomb & Boyd
+Ilan Zachar, Carr
+OPR - OT Standards and Next Steps in the Journey
+
+Date: Wednesday, June 19, 2024
+Time: 10:05 AM - 10:30 AM
+Location: Main Stage
+Speakers:
+Greg Fitzpatrick, Cochrane Supply
+Thano Lambrinos, QuadReal
+Fred Gordy, Michael Baker International
+Michael MacMahon, Newcomb & Boyd
+Case Study 2: Continuous Pen Testing
+
+Date: Wednesday, June 19, 2024
+Time: 10:30 AM - 10:40 AM
+Location: Main Stage
+Speaker: Lucius Mims, Brookfield Properties
